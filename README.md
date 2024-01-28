@@ -5,6 +5,7 @@ Project Overview
 The project repository contains code written in HTML, CSS, and JavaScript. The responsive design is implemented using media queries, and flex technology is utilized for layout purposes.
 
 GitHub Repository
+https://github.com/IliaLomidze/TBC.git
 
 
 Clone the repository to your local machine:
