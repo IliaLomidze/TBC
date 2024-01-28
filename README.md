@@ -7,5 +7,3 @@ The project repository contains code written in HTML, CSS, and JavaScript. The r
 GitHub Repository
 https://github.com/IliaLomidze/TBC.git
 
-
-Clone the repository to your local machine:
